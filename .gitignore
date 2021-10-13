@@ -21,3 +21,11 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/Solid/SegregacionInterfaces/nbproject/private/
+/Solid/SegregacionInterfaces/build/
+/Tema 4/creacionales/Singleton/nbproject/private/
+/Tema 4/creacionales/Singleton/build/
+/Tema 4/creacionales/Factory/nbproject/private/
+/Tema 4/creacionales/Factory/build/
+/Tema 4/creacionales/AbstractFactory/nbproject/private/
+/Tema 4/creacionales/AbstractFactory/build/
